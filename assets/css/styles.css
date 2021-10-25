@@ -11402,10 +11402,10 @@ video.bg-video {
   padding-bottom: 5rem;
 }
 .masthead .masthead-content h1, .masthead .masthead-content .h1 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 .masthead .masthead-content p {
-  font-size: 1.2rem;
+  font-size: 0.4rem;
 }
 .masthead .masthead-content p strong {
   font-weight: 700;
@@ -11442,10 +11442,10 @@ video.bg-video {
     padding-right: 9rem;
   }
   .masthead .masthead-content h1, .masthead .masthead-content .h1 {
-    font-size: 3.5rem;
+    font-size: 1.5rem;
   }
   .masthead .masthead-content p {
-    font-size: 1.3rem;
+    font-size: 0.8rem;
   }
 }
 @media (min-width: 1200px) {
